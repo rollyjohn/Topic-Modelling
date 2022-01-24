@@ -15,7 +15,11 @@ All banks provide their customers banking experience through the Mobile apps. Fo
 
 
 References:
+
 •	Blei, David M.; Ng, Andrew Y.; Jordan, Michael I; Lafferty, John (January 2003). "Latent Dirichlet allocation". Journal of Machine Learning Research.
+
 •	https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ 
+
 •	https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/ 
+
 
